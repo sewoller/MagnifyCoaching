@@ -1,0 +1,16 @@
+Goal:
+    Create an application for Magnify Coaching that will streamline and automate processes
+    that would be preformed by a secretary / scheduler. 
+
+Application Functionalities:
+    Tabs:
+        Home Page:
+
+        Client List:
+
+        Documents:
+
+        Calendar:
+
+        Financials:
+        
