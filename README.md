@@ -1,3 +1,16 @@
+# Tarin!
+Open MagnifyCoaching folder in terminal (cmd). You can go to the folder and type "cmd" in the directory line.
+
+In terminal, type the start command (see below). That will open the app preview in your browser.
+
+In the browser, open up Dev Tools (shortcut on Windows is ctrl+shift+i)
+
+When you make changes to the code, make sure the changes are saved, then reload the webpage to see changes. (Reload might not be necessary). 
+
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
